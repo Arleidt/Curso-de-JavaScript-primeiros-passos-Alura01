@@ -2,7 +2,7 @@ console.log("Trabalhando com atribuição de variáveis");
 //Console.log("Trabalhando com variáveis");
 //JS é case sensitive
 
-const idade = 29;
+//const idade = 29;
 //let nome = "Ricardo";
 const nome = "Ricardo";
 const sobrenome = "Bugan"
@@ -30,3 +30,7 @@ const segundoNome= "Duarte"
 console.log(`Meu nome é: ${primeiroNome} ${segundoNome}`);
 //não fazer 
 //mes = "Janeiro";
+let idade; // declarando variável
+idade = 26;//atribuindo valor
+idade = idade+1;
+console.log(idade);
